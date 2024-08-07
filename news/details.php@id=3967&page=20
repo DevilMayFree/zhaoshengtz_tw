@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 行銷 -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9E11CW5M9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K9E11CW5M9');
+</script><!--[if lt IE 9]><script src="../js/html5.js"></script><![endif]-->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="Content-Language" content="zh-Tw">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	<meta property="og:locale" content="zh_TW" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="貿華投資顧問" />
+
+	<meta property="og:description" content="半導體中游ＩＣ製造-產業大套餐-" />
+
+	<meta property="og:image" content="" /> 
+
+
+	<title>半導體中游ＩＣ製造-產業大套餐-貿華投資顧問</title>
+	<meta name="keywords" content="貿華投資顧問-投資顧問公司,台中投資顧問公司,西屯投資顧問公司,台中投資顧問公司推薦,投顧公司,台中投顧公司,西屯投顧公司,台中投顧公司推薦,投資顧問,台中投資顧問,西屯投資顧問,投資顧問推薦,台中投資顧問推薦,西屯投資顧問推薦,理財顧問,台中理財顧問,西屯理財顧問,台中理財顧問推薦,私人理財顧問,台中私人理財顧問,西屯私人理財顧問,家族財富規劃,台中家族財富規劃,西屯家族財富規劃,家族財富傳承,台中家族財富傳承,西屯家族財富傳承,稅務規劃,台中稅務規劃,西屯稅務規劃,稅務諮詢,台中稅務諮詢,西屯稅務諮詢,理財講座,台中理財講座,西屯理財講座,台中理財講座推薦,投資講座,台中投資講座,西屯投資講座,台中投資講座推薦,企業理財規劃,台中企業理財規劃,西屯企業理財規劃,企業財務管理,台中企業財務管理,西屯企業財務管理,保險代理人,台中保險代理人,西屯保險代理人,保險代理人推薦,台中保險代理人推薦,西屯保險代理人推薦,保險經紀人,台中保險經紀人,西屯保險經紀人,保險經紀人推薦,台中保險經紀人推薦,西屯保險經紀人推薦" />
+	<meta name="description" content="投資顧問公司,台中投資顧問公司,西屯投資顧問公司,台中投資顧問公司推薦,投顧公司,台中投顧公司,西屯投顧公司,台中投顧公司推薦,投資顧問,台中投資顧問,西屯投資顧問,投資顧問推薦,台中投資顧問推薦,西屯投資顧問推薦,理財顧問,台中理財顧問,西屯理財顧問,台中理財顧問推薦,私人理財顧問,台中私人理財顧問,西屯私人理財顧問,家族財富規劃,台中家族財富規劃,西屯家族財富規劃,家族財富傳承,台中家族財富傳承,西屯家族財富傳承,稅務規劃,台中稅務規劃,西屯稅務規劃,稅務諮詢,台中稅務諮詢,西屯稅務諮詢,理財講座,台中理財講座,西屯理財講座,台中理財講座推薦,投資講座,台中投資講座,西屯投資講座,台中投資講座推薦,企業理財規劃,台中企業理財規劃,西屯企業理財規劃,企業財務管理,台中企業財務管理,西屯企業財務管理,保險代理人,台中保險代理人,西屯保險代理人,保險代理人推薦,台中保險代理人推薦,西屯保險代理人推薦,保險經紀人,台中保險經紀人,西屯保險經紀人,保險經紀人推薦,台中保險經紀人推薦,西屯保險經紀人推薦" />
+	<link rel="shortcut icon" href="../favicon.ico">
+	
+
+<!-- -->
+<script type="text/javascript" src="../js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="../js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="../js/jquery.mmenu.all.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:600|Roboto" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../css/animate.min.css" />
+<link rel="stylesheet" type="text/css" href="../css/jquery.mmenu.all.css" />
+<link rel="stylesheet" type="text/css" href="../css/menu.css" />
+<link rel="stylesheet" type="text/css" href="../css/menu_v2_2020.css" />
+<link rel="stylesheet" type="text/css" href="../css/custom.css" />
+
+
+	
+</head>
+
+<body class="blog_in_page">
+
+<div id="page">
+<style>
+/*抬頭背景顏色*/
+#header {
+    background: ;
+}
+
+/*抬頭文字顏色*/
+#menuTop li a,
+.search_link a,
+.topTop a i,
+.search_txt + .fa {
+	color: ;
+}
+.search_txt,
+#menuTop li ul {
+	border: 1px solid ;
+}
+.product-layer-two li a:after {
+	border-color: transparent  transparent transparent;
+}
+
+/*第一層背景顏色*/
+#menuTop li,
+.product-layer-two li li,
+.product-layer-two li li a {
+	background: ;
+}
+/*第一層文字顏色*/
+#menuTop li li a,
+.product-layer-two li li a {
+	color: ;
+}
+
+.product-layer-two li:hover ul {
+	border:1px solid ;
+	border-top: 2px solid ;	
+}
+
+/*第一層滑過背景顏色*/
+#menuTop li li:hover,
+.product-layer-two li li:hover a,
+.product-layer-two li li:hover{
+	background: ;
+}
+/*第一層滑過文字顏色*/
+#menuTop li li:hover a,
+.product-layer-two li li:hover a{
+	color: ;
+}
+
+
+/*第二層背景顏色*/
+.other_subalbum li {
+	background: ;
+}
+/*第二層文字顏色*/
+.other_subalbum li {
+	border: 1px solid ;
+}
+.subalbum-menu h2,
+.other_subalbum li a,
+.product_pic #bx-pager {
+	color: ;
+}
+/*第二層滑過背景顏色*/
+.other_subalbum li:hover,
+.other_subalbum li.active {
+	background: ;
+}
+/*第二層滑過文字顏色*/
+.other_subalbum li:hover,
+.other_subalbum li.active {
+    border: 1px solid ;
+}
+.other_subalbum li:hover a,
+.other_subalbum li.active a {
+    color: ;
+}
+
+/*第三層背景顏色*/
+.products-list .more {
+    color: ;
+}
+.products-list .price b {
+	color: ;
+}
+
+/*第三層滑過背景顏色*/
+.other_album_choice li,
+.products-list a:hover .more {
+    background: ;
+}
+.products-list a:hover .more {
+	border-color: ;
+}
+/*第三層滑過文字顏色*/
+.other_album_choice li a,
+.products-list a:hover .more {
+    color: ;
+}
+</style>  
+
+
+
+
+<header class="header_area">
+  <div class="main_header_area animated">
+    <div class="container">
+      <nav id="navigation1" class="navigation">
+        
+        <div class="nav-header">
+          <a class="nav-brand" href="index.html"><img src="https://www.doing-housework.com/store_image/richholder168/L164791674089.png" alt="貿華投資顧問"/><h1>貿華投資顧問</h1></a>
+          <div class="nav-toggle"></div>
+        </div>
+        
+       
+        
+        <div class="nav-menus-wrapper">
+          
+          <a class="nav-brand-m" href="index.html"><img src="https://www.doing-housework.com/store_image/richholder168/L164791674089.png" alt="貿華投資顧問"/></a>
+          
+          <ul class="nav-menu align-to-right">
+                    		<li   ><a href="index.html" target="_self">首頁</a>
+                	                </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/other_page.php?id=3441" target="_self">關於貿華</a>
+                	                </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/services_index.php?title_id=3442" target="_self">服務項目</a>
+                	                </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/other_page.php?id=3788" target="_self">核心技術</a>
+                	                </li>
+                    		<li class=active  ><a href="http://www.richholder.com.tw/news/index.php?title_id=3445" target="_self">投資專欄</a>
+                	                    	<ul class="nav-dropdown">
+                    	                            <li><a href="http://www.richholder.com.tw/news/index.php?group_id=430&title_id=3445#prod_cbox">時事回顧</a>
+                                                          </li>
+                                                     <li><a href="http://www.richholder.com.tw/news/index.php?group_id=1041&title_id=3445#prod_cbox">財經專題</a>
+                                                          </li>
+                                                     <li><a href="http://www.richholder.com.tw/news/index.php?group_id=1045&title_id=3445#prod_cbox">產業解密</a>
+                                                          </li>
+                                                     <li><a href="http://www.richholder.com.tw/news/index.php?group_id=2172&title_id=3445#prod_cbox">媒體報導</a>
+                                                          </li>
+                                             	</ul>
+                                    </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/contact_index.php?title_id=3444" target="_self">預約諮詢</a>
+                	                </li>
+                      <li class="tp_links">
+                                           <a class="me_tp_call" href="tel:04-22546161"></a>              <a class="me_tp_mail" href="mailto:richholder.web@gmail.com"></a>			</li>
+          </ul>
+        </div>
+           
+      </nav><!--navigation-->
+    </div>
+  </div>
+</header>
+
+
+<div id="content">
+	
+    <div class="banner banblog"><h5>投資專欄</h5></div><!-- banner -->
+    
+	<div class="main_part">
+    
+		<div class="path">
+            <p><a href="../index.php">首頁</a> > <a href="index.php">投資專欄</a> > <a href="index.php?group_id=1045">產業解密</a></p>
+		</div><!-- path -->
+		
+        <div class="show_content blog_box clearfix">
+        
+          <div class="blog_le fadeInLeft animated15 clearfix">
+            <h5 class="blog_le_t"><em>文章分類</em><span>Article</span></h5>
+            
+<div class="blog_search"><form action="https://www.richholder.com.tw/news/index.php" method="get"><input type="search" name="keyword_a" value="" placeholder="文章搜尋"><input type="submit" name="" id="" value=""></form></div>
+            
+<ul id="accordion" class="accordion">
+        <li ><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=430&title_id=3444#prod_cbox">時事回顧</a> </div>
+              </li>
+        <li ><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=1041&title_id=3444#prod_cbox">財經專題</a> </div>
+              </li>
+        <li class="default open on_this_category"><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=1045&title_id=3444#prod_cbox">產業解密</a> </div>
+              </li>
+        <li ><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=2172&title_id=3444#prod_cbox">媒體報導</a> </div>
+              </li>
+  </ul>          </div>
+          
+          <div class="blog_ri fadeInRight animated15 clearfix">
+            
+            <h4 class="blog_category_title">半導體中游ＩＣ製造-產業大套餐<i>2022/04/26</i></h4>
+            
+            
+            <div class="blog_box_edit clearfix">
+
+              <h3 style="text-align: center;">
+	<img alt="" src="https://www.doing-housework.com/store_image/richholder168/file/D1650958575263.jpg" style="width: 100px; height: 67px;" /></h3>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">回顧半導體產業</span></span></h3>
+<div>
+	半導體產業，泛指所有生產製造和IC（Integrated Circuit, 即積體電路）相關產品的產業。像是手機、高鐵、網路、電腦等生活不可或缺的工具，都需要積體電路中的晶片。這些晶片透過上游的IC設計產出電路設計圖後，交給晶圓代工廠代工</div>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">中游IC製造大廠：台積電、三星、Intel</span></span></h3>
+<div>
+	一說到晶片，相信多數人第一個聯想到的就是台灣的「護國神山」-台積電，還有全球大廠三星、Intel，他們都是半導體產業界中不可或缺的晶片製造公司！</div>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">IC製造是什麼?</span></span></h3>
+<div>
+	當 IC 設計完成後，就要進入生產階段，也就是 IC 製造，這個階段正是產業半導體產業鏈的中游段。而 IC 製造簡單來說，就是「晶圓代工廠」要「把設計好的電路圖，實際轉移到半導體晶圓上」</div>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">IC製造的流程是什麼呢?</span></span></h3>
+<div>
+	從上篇介紹的IC 4大類別：記憶體 IC、微元件 IC、邏輯 IC、類比 IC 中，可以發現，微元件 IC、邏輯 IC、類比 IC 這 3 類主要功能在於資料處理和運算，而記憶體 IC 主要功能則在於資料儲存。因此，生產晶片的 IC 製造廠一般又分為 2 大宗：「晶圓代工」和「記憶體製造」</div>
+<div>
+	&nbsp;</div>
+<div>
+	製造晶片的 IC 製造廠，在把電路轉印到晶圓的過程中，也會需要用到各式各樣的「IC 製造設備」；製程中還有一些重要的「IC 製造材料」，像是：基本材料「晶圓」、濺鍍在晶圓上作為電路的金屬薄膜「靶材」、轉印電路圖用的「光罩」，以及光阻等「化學品」， 這些「IC 製造設備」和「「IC 製造材料」」也都是中游-IC產業中的一環</div>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">關於IC製造產業你還需要知道什麼?</span></span></h3>
+<div>
+	►技術</div>
+<div>
+	對於 IC 製造廠而言，技術是製程中非常重要的一環，我們常聽到的「朝２奈米前進」就是指半導體晶片技術的提升。奈米製程則是指晶片上電晶體控制電流通過的「閘極長度」，長度越小，電晶體就越小，能塞進晶片的電晶體數量就越多，設備的效能也會相應提升，也能降低耗電量</div>
+<div>
+	&nbsp;</div>
+<h3>
+	因此縮小電晶體是半導體製程中發展的方向優！</h3>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="background-color:#ffffff;">良率</span></h3>
+<div>
+	對於 IC 製造廠而言，製程是技術，良率的好壞也是非常重要的關鍵！</div>
+<div>
+	一般能將良率維持在八成左右已經是非常困難的事情了，台積電與聯電的製程良率可以達到九成五以上，可見台灣晶圓代工的技術水平</div>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">摩爾定律</span></span></h3>
+<div>
+	說到奈米這就不得不提到「摩爾定律」，摩爾定律是美國半導體大廠 Intel 的創辦人之一戈登．摩爾在 1965 年於《電子學》雜誌所提出。電晶體左右了晶片的效能，而摩爾發現，每個晶片上可容納的電晶體數目半導體晶片技術的提升，代表能夠在ＩＣ晶片中塞入多少電晶體，約每隔十八個月到兩年增加一倍、性能也提升一倍。言下之意，就是 IC 技術每隔 18 個月就會有一個大幅的跳躍成長！所以與其說是&ldquo;定律&rdquo;，它更像是一個用來描述積體電路產業演進軌跡的指標</div>
+<div>
+	&nbsp;</div>
+<h3>
+	這並非一定會發生的定律，而是一個預測，這個預測是建立在半導體製程工藝能夠穩步提升的情況下</h3>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">三大廠奈米進程技術</span></span></h3>
+<div>
+	前面我們提到的奈米技術進程，對晶片的效能有非常大的影響，也是彰顯廠商能力的重要訊號之一，如果更快跟上摩爾定律，將能擁有獨佔市場的機會，也將變成股價上揚的重要動力！</div>
+<div>
+	&nbsp;</div>
+<div>
+	從台積電先進製程進度來看，目前 3 奈米開發照計畫進行、進度良好，已開發完整平台支援高效能運算及智慧型手機應用，且相較 5 奈米，3 奈米量產首年會有更多新產品設計定案，預計2023年第三季量產； 2 奈米製程將改採 GAA(環繞閘極) 架構，還未公布量產時程</div>
+<div>
+	&nbsp;</div>
+<div>
+	英特爾表示4奈米、3奈米製程將分別在2022及2023年下半年量產，2奈米製程預計2024年上半年量產、1.8奈米預計同年下半年量產，目標在2025年前重返電晶體每瓦效能的領先地位</div>
+<div>
+	&nbsp;</div>
+<div>
+	三星的三星3奈米GAA技術預計在今年上半年量產，並說明3奈米技術良率已經逐步貼近三星4奈米，下一代的3奈米預計於2023年量產，採用MBCFET技術的2奈米製程則是還在早期開發階段，預計2025年量產</div>
+<div>
+	&nbsp;</div>
+<h3>
+	<span style="color:#000000;"><span style="background-color:#ffffff;">小結</span></span></h3>
+<div>
+	半導體是經過了數十年的演化才有今日的樣貌，而在台灣，半導體業更儼然成為維繫國家經濟動脈的一個主力。基本上半導體製造為一垂直分工細密且高附加價值的產業，其快速的成長也會帶動其他週邊產業的繁榮，形成了今日台灣經濟命脈之所繫</div>
+<div>
+	&nbsp;</div>
+              <!--編輯器內容-->
+              </div>        
+              
+            </div><!--blog_subbox-->
+            
+            <div class="blog_goback">
+            <a href="javascript:void();" onClick="history.go(-1)" class="lastPage">上一頁</a>
+            </div>
+            
+            <div class="blog_back">
+            <a class="article_btn_prev" href="details.php?id=2022-04-26 16:59:16&page=20">上一篇</a>
+            <a class="article_btn_back" href="index.php?&page=20" >回列表</a>
+            <a class="article_btn_next" href="details.php?id=2022-04-26 16:55:44&page=20">下一篇</a>
+            </div>
+			
+          </div>
+          
+		</div><!-- show_content blog_box -->
+
+	</div><!-- main_part -->
+</div><!-- #content -->
+
+
+<a id="to_top" class="to_top" href=""><i class='top'></i>TOP</a>
+
+<style>
+
+	.footer_item{
+		display: inline-block;
+		vertical-align: middle;
+		padding: 0 40px;
+		border-left: 2px solid #FFF;
+		border-right: 2px solid #FFF;
+	}
+
+	.footer_item p{
+		padding: 0 0 0 35px;
+		position: relative;
+		line-height: 160%;
+		margin-bottom: 10px;
+		text-align: left;
+	}
+
+	.footer_item p:before{
+		content: "";
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0;
+		top: 0;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+
+	.footer_link{
+		display: inline-block;
+		vertical-align: middle;
+		padding: 0 20px;
+	}
+
+	.footer_link a{
+		width: 120px;
+		display: inline-block;
+		vertical-align: middle;
+		margin: 10px;
+		background:#fff;
+	}
+
+	.footer_link a img{width: 100%;}
+
+
+	#p01:before{background-image: url(https://pic03.eapple.com.tw/richholder168/footer-phone.png);}
+	#p02:before{background-image: url(https://pic03.eapple.com.tw/richholder168/footer-email.png);}
+	#p03:before{background-image: url(https://pic03.eapple.com.tw/richholder168/footer-map.png);}
+
+	@media screen and (max-width: 1000px){
+
+		.footer_item{
+			width: 100%;
+			display: block;
+			margin: 20px auto;
+			padding: 0;
+			border-right: none;
+			border-left: none;
+		}
+
+	    .footer_link{
+	    	display: block;
+	    	padding: 0;
+	    }
+
+	    .footer_link a{
+	    	margin: 5px;
+	    }
+
+	}
+		
+
+
+</style>
+
+<!-- ******************************** -->
+<!-- 有購物車 加上下方 id#bottom_menu -->
+<ul id="bottom_menu" class="clearfix with_shopping_mode">
+	<li><a href="index.html"><i class="fa fa-home fa-2x" aria-hidden="true"></i>回首頁</a></li>
+	</ul>
+
+<style>
+.double_key { text-align:center; background: #003c7b;}
+.double_key a { font-size:15px; color: #003c7b; display:inline-block;}
+.double_key a:after { content:' , '; font-size:15px; color: #003c7b;}
+.double_key a:last-child:after { display:none;}
+</style>
+<div class="double_key">
+<a href="http://www.richholder.com.tw/">投資顧問公司</a>
+<a href="http://www.richholder.com.tw/">台中投資顧問公司</a>
+<a href="http://www.richholder.com.tw/">西屯投資顧問公司</a>
+<a href="http://www.richholder.com.tw/">台中投資顧問公司</a>
+</div><!--double_key-->
+<style type="text/css">
+.fix_ri { width:50px; box-sizing: border-box; position: fixed; bottom:55px; right:20px; z-index: 9999; text-align:center; }
+.fix_ri a { display:inline-block; margin-bottom:6px;}
+.fix_ri img { opacity:1; width:100%;}
+.fix_ri img:hover { opacity:1;}
+.fix_ri p { text-align:center; font-weight: 900;}
+
+
+@media screen and (max-width: 768px) {
+	
+	
+	
+}
+@media screen and (max-width:480px) {
+.fix_ri{bottom:68px; right: 10px;}	
+	
+	
+}
+
+</style>
+<div class="fix_ri">
+<a href="https://line.naver.jp/ti/p/~@richholder" target="_blank"><img src="https://pic03.eapple.com.tw/richholder168/line.png" /></a><!--line-->
+<a href="tel:04-22546161"><img src="https://pic03.eapple.com.tw/richholder168/call.png" /></a><!--call-->
+</div>
+
+
+
+
+<!--警示標語-->
+<div id="fixed-footer">
+    本公司無任何投資群組、帶單、虛擬貨幣、股票投資資訊，請注意詐騙陷阱！
+ </div>
+<!--警示標語-->
+<!-- ******************************** -->
+<!-- 有購物車 額外加上with_shopping_mode -->
+<footer class="footer with_shopping_mode"><!-- 有購物車 加上with_shopping_mode -->
+	<div class="center">
+		<ul class="box_link">
+								</ul>
+		<div class="footer_info">	
+					
+			<div class="footer_logo">
+				<a href="index.html"><img src="https://pic03.eapple.com.tw/richholder168/logo-foter.svg" alt="貿華投資顧問" /></a>
+			</div><!-- footer_logo -->
+						<div class="footer_item">
+				<p id="p01">電話：04-22546161</p>
+				<p id="p02">信箱：service@richholder.info</p>
+				<p id="p03">地址：臺北市中正區濟南路一段15號4樓</p>
+			</div>
+			<div class="footer_link">
+				<a href="https://www.facebook.com/%E7%9D%BF%E7%A6%BE%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F-101021432331041" target="_blank"><img src="https://pic03.eapple.com.tw/richholder168/fb-web2021.svg"></a>
+				<a href="https://www.instagram.com/finance.restaurant_/" target="_blank"><img src="https://pic03.eapple.com.tw/richholder168/ig-web.svg"></a>
+			</div>
+			<ul>
+            <li>
+            	<div class="footer_menu">
+                <a href="http://www.richholder.com.tw/index.php">回首頁</a>
+				                <a href="index.html">首頁</a>
+				                <a href="http://www.richholder.com.tw/paper/other_page.php?id=3441">關於貿華</a>
+				                <a href="http://www.richholder.com.tw/paper/services_index.php?title_id=3442">服務項目</a>
+				                <a href="http://www.richholder.com.tw/paper/other_page.php?id=3788">核心技術</a>
+				                <a href="http://www.richholder.com.tw/news/index.php?title_id=3445">投資專欄</a>
+				                <a href="http://www.richholder.com.tw/paper/contact_index.php?title_id=3444">預約諮詢</a>
+				                </div>
+            </li>
+            </ul>
+		</div><!-- footer_info -->
+        
+        
+	</div><!-- center -->
+	<p class="copy">Designed by <a href="http://www.ykqk.com.tw" target="_blank">揚京快客</a> Copyright © 2024 <a href="https://www.doing-housework.com/web_login/login.php" target="_blank">..</a> <!-- <span class="total_view">累積人氣: 342357</span> --></p>
+	<p class="keywords">	
+	投資顧問公司,台中投資顧問公司,西屯投資顧問公司,台中投資顧問公司推薦,投顧公司,台中投顧公司<span id="show_itemb1" style="display:none">,西屯投顧公司,台中投顧公司推薦,投資顧問,台中投資顧問,西屯投資顧問,投資顧問推薦,台中投資顧問推薦,西屯投資顧問推薦,理財顧問,台中理財顧問,西屯理財顧問,台中理財顧問推薦,私人理財顧問,台中私人理財顧問,西屯私人理財顧問,家族財富規劃,台中家族財富規劃,西屯家族財富規劃,家族財富傳承,台中家族財富傳承,西屯家族財富傳承,稅務規劃,台中稅務規劃,西屯稅務規劃,稅務諮詢,台中稅務諮詢,西屯稅務諮詢,理財講座,台中理財講座,西屯理財講座,台中理財講座推薦,投資講座,台中投資講座,西屯投資講座,台中投資講座推薦,企業理財規劃,台中企業理財規劃,西屯企業理財規劃,企業財務管理,台中企業財務管理,西屯企業財務管理,保險代理人,台中保險代理人,西屯保險代理人,保險代理人推薦,台中保險代理人推薦,西屯保險代理人推薦,保險經紀人,台中保險經紀人,西屯保險經紀人,保險經紀人推薦,台中保險經紀人推薦,西屯保險經紀人推薦</span>&nbsp;&nbsp;<span id="NoButtonb1"><input type="button" value="更多" style="width:50px;height:20px;" onclick="MoreItem('yes','b1')"/></span><span id="YesButtonb1" style="display:none"><input type="button" value="隱藏" style="width:50px;height:20px;" onclick="MoreItem('no','b1')"/></span></p>
+</footer>
+			
+</div><!-- #page -->
+<script src='../js/main.js'></script>
+<script src='../js/menu_v2_2020.js'></script>
+<script>
+//左邊分類下拉語法
+$(function() {
+	var Accordion = function(el, multiple) {
+		this.el = el || {};
+		this.multiple = multiple || false;
+
+		// Variables privadas
+		var links = this.el.find('.link');
+		// Evento
+		links.on('click', {el: this.el, multiple: this.multiple}, this.dropdown)
+	}
+
+	Accordion.prototype.dropdown = function(e) {
+		var $el = e.data.el;
+			$this = $(this),
+			$next = $this.next();
+
+		$next.slideToggle();
+		$this.parent().toggleClass('open');
+
+		if (!e.data.multiple) {
+			$el.find('.submenu').not($next).slideUp().parent().removeClass('open');
+		};
+	}	
+
+	var accordion = new Accordion($('#accordion'), false);
+});
+</script>
+	</body>
+</html>

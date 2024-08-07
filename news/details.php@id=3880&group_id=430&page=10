@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 行銷 -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9E11CW5M9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K9E11CW5M9');
+</script><!--[if lt IE 9]><script src="../js/html5.js"></script><![endif]-->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="Content-Language" content="zh-Tw">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	<meta property="og:locale" content="zh_TW" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="貿華投資顧問" />
+
+	<meta property="og:description" content="小餐館週報 帶你看時事-" />
+
+	<meta property="og:image" content="" /> 
+
+
+	<title>小餐館週報 帶你看時事-貿華投資顧問</title>
+	<meta name="keywords" content="貿華投資顧問-投資顧問公司,台中投資顧問公司,西屯投資顧問公司,台中投資顧問公司推薦,投顧公司,台中投顧公司,西屯投顧公司,台中投顧公司推薦,投資顧問,台中投資顧問,西屯投資顧問,投資顧問推薦,台中投資顧問推薦,西屯投資顧問推薦,理財顧問,台中理財顧問,西屯理財顧問,台中理財顧問推薦,私人理財顧問,台中私人理財顧問,西屯私人理財顧問,家族財富規劃,台中家族財富規劃,西屯家族財富規劃,家族財富傳承,台中家族財富傳承,西屯家族財富傳承,稅務規劃,台中稅務規劃,西屯稅務規劃,稅務諮詢,台中稅務諮詢,西屯稅務諮詢,理財講座,台中理財講座,西屯理財講座,台中理財講座推薦,投資講座,台中投資講座,西屯投資講座,台中投資講座推薦,企業理財規劃,台中企業理財規劃,西屯企業理財規劃,企業財務管理,台中企業財務管理,西屯企業財務管理,保險代理人,台中保險代理人,西屯保險代理人,保險代理人推薦,台中保險代理人推薦,西屯保險代理人推薦,保險經紀人,台中保險經紀人,西屯保險經紀人,保險經紀人推薦,台中保險經紀人推薦,西屯保險經紀人推薦" />
+	<meta name="description" content="投資顧問公司,台中投資顧問公司,西屯投資顧問公司,台中投資顧問公司推薦,投顧公司,台中投顧公司,西屯投顧公司,台中投顧公司推薦,投資顧問,台中投資顧問,西屯投資顧問,投資顧問推薦,台中投資顧問推薦,西屯投資顧問推薦,理財顧問,台中理財顧問,西屯理財顧問,台中理財顧問推薦,私人理財顧問,台中私人理財顧問,西屯私人理財顧問,家族財富規劃,台中家族財富規劃,西屯家族財富規劃,家族財富傳承,台中家族財富傳承,西屯家族財富傳承,稅務規劃,台中稅務規劃,西屯稅務規劃,稅務諮詢,台中稅務諮詢,西屯稅務諮詢,理財講座,台中理財講座,西屯理財講座,台中理財講座推薦,投資講座,台中投資講座,西屯投資講座,台中投資講座推薦,企業理財規劃,台中企業理財規劃,西屯企業理財規劃,企業財務管理,台中企業財務管理,西屯企業財務管理,保險代理人,台中保險代理人,西屯保險代理人,保險代理人推薦,台中保險代理人推薦,西屯保險代理人推薦,保險經紀人,台中保險經紀人,西屯保險經紀人,保險經紀人推薦,台中保險經紀人推薦,西屯保險經紀人推薦" />
+	<link rel="shortcut icon" href="../favicon.ico">
+	
+
+<!-- -->
+<script type="text/javascript" src="../js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="../js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="../js/jquery.mmenu.all.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:600|Roboto" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="../css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="../css/animate.min.css" />
+<link rel="stylesheet" type="text/css" href="../css/jquery.mmenu.all.css" />
+<link rel="stylesheet" type="text/css" href="../css/menu.css" />
+<link rel="stylesheet" type="text/css" href="../css/menu_v2_2020.css" />
+<link rel="stylesheet" type="text/css" href="../css/custom.css" />
+
+
+	
+</head>
+
+<body class="blog_in_page">
+
+<div id="page">
+<style>
+/*抬頭背景顏色*/
+#header {
+    background: ;
+}
+
+/*抬頭文字顏色*/
+#menuTop li a,
+.search_link a,
+.topTop a i,
+.search_txt + .fa {
+	color: ;
+}
+.search_txt,
+#menuTop li ul {
+	border: 1px solid ;
+}
+.product-layer-two li a:after {
+	border-color: transparent  transparent transparent;
+}
+
+/*第一層背景顏色*/
+#menuTop li,
+.product-layer-two li li,
+.product-layer-two li li a {
+	background: ;
+}
+/*第一層文字顏色*/
+#menuTop li li a,
+.product-layer-two li li a {
+	color: ;
+}
+
+.product-layer-two li:hover ul {
+	border:1px solid ;
+	border-top: 2px solid ;	
+}
+
+/*第一層滑過背景顏色*/
+#menuTop li li:hover,
+.product-layer-two li li:hover a,
+.product-layer-two li li:hover{
+	background: ;
+}
+/*第一層滑過文字顏色*/
+#menuTop li li:hover a,
+.product-layer-two li li:hover a{
+	color: ;
+}
+
+
+/*第二層背景顏色*/
+.other_subalbum li {
+	background: ;
+}
+/*第二層文字顏色*/
+.other_subalbum li {
+	border: 1px solid ;
+}
+.subalbum-menu h2,
+.other_subalbum li a,
+.product_pic #bx-pager {
+	color: ;
+}
+/*第二層滑過背景顏色*/
+.other_subalbum li:hover,
+.other_subalbum li.active {
+	background: ;
+}
+/*第二層滑過文字顏色*/
+.other_subalbum li:hover,
+.other_subalbum li.active {
+    border: 1px solid ;
+}
+.other_subalbum li:hover a,
+.other_subalbum li.active a {
+    color: ;
+}
+
+/*第三層背景顏色*/
+.products-list .more {
+    color: ;
+}
+.products-list .price b {
+	color: ;
+}
+
+/*第三層滑過背景顏色*/
+.other_album_choice li,
+.products-list a:hover .more {
+    background: ;
+}
+.products-list a:hover .more {
+	border-color: ;
+}
+/*第三層滑過文字顏色*/
+.other_album_choice li a,
+.products-list a:hover .more {
+    color: ;
+}
+</style>  
+
+
+
+
+<header class="header_area">
+  <div class="main_header_area animated">
+    <div class="container">
+      <nav id="navigation1" class="navigation">
+        
+        <div class="nav-header">
+          <a class="nav-brand" href="index.html"><img src="https://www.doing-housework.com/store_image/richholder168/L164791674089.png" alt="貿華投資顧問"/><h1>貿華投資顧問</h1></a>
+          <div class="nav-toggle"></div>
+        </div>
+        
+       
+        
+        <div class="nav-menus-wrapper">
+          
+          <a class="nav-brand-m" href="index.html"><img src="https://www.doing-housework.com/store_image/richholder168/L164791674089.png" alt="貿華投資顧問"/></a>
+          
+          <ul class="nav-menu align-to-right">
+                    		<li   ><a href="index.html" target="_self">首頁</a>
+                	                </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/other_page.php?id=3441" target="_self">關於貿華</a>
+                	                </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/services_index.php?title_id=3442" target="_self">服務項目</a>
+                	                </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/other_page.php?id=3788" target="_self">核心技術</a>
+                	                </li>
+                    		<li class=active  ><a href="http://www.richholder.com.tw/news/index.php?title_id=3445" target="_self">投資專欄</a>
+                	                    	<ul class="nav-dropdown">
+                    	                            <li><a href="http://www.richholder.com.tw/news/index.php?group_id=430&title_id=3445#prod_cbox">時事回顧</a>
+                                                          </li>
+                                                     <li><a href="http://www.richholder.com.tw/news/index.php?group_id=1041&title_id=3445#prod_cbox">財經專題</a>
+                                                          </li>
+                                                     <li><a href="http://www.richholder.com.tw/news/index.php?group_id=1045&title_id=3445#prod_cbox">產業解密</a>
+                                                          </li>
+                                                     <li><a href="http://www.richholder.com.tw/news/index.php?group_id=2172&title_id=3445#prod_cbox">媒體報導</a>
+                                                          </li>
+                                             	</ul>
+                                    </li>
+                    		<li   ><a href="http://www.richholder.com.tw/paper/contact_index.php?title_id=3444" target="_self">預約諮詢</a>
+                	                </li>
+                      <li class="tp_links">
+                                           <a class="me_tp_call" href="tel:04-22546161"></a>              <a class="me_tp_mail" href="mailto:richholder.web@gmail.com"></a>			</li>
+          </ul>
+        </div>
+           
+      </nav><!--navigation-->
+    </div>
+  </div>
+</header>
+
+
+<div id="content">
+	
+    <div class="banner banblog"><h5>投資專欄</h5></div><!-- banner -->
+    
+	<div class="main_part">
+    
+		<div class="path">
+            <p><a href="../index.php">首頁</a> > <a href="index.php">投資專欄</a> > <a href="index.php?group_id=430">時事回顧</a></p>
+		</div><!-- path -->
+		
+        <div class="show_content blog_box clearfix">
+        
+          <div class="blog_le fadeInLeft animated15 clearfix">
+            <h5 class="blog_le_t"><em>文章分類</em><span>Article</span></h5>
+            
+<div class="blog_search"><form action="https://www.richholder.com.tw/news/index.php" method="get"><input type="search" name="keyword_a" value="" placeholder="文章搜尋"><input type="submit" name="" id="" value=""></form></div>
+            
+<ul id="accordion" class="accordion">
+        <li class="default open on_this_category"><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=430&title_id=3444#prod_cbox">時事回顧</a> </div>
+              </li>
+        <li ><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=1041&title_id=3444#prod_cbox">財經專題</a> </div>
+              </li>
+        <li ><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=1045&title_id=3444#prod_cbox">產業解密</a> </div>
+              </li>
+        <li ><!--預設打開 也可不開-->
+        <div class="link"><a href="http://www.richholder.com.tw/news/index.php?group_id=2172&title_id=3444#prod_cbox">媒體報導</a> </div>
+              </li>
+  </ul>          </div>
+          
+          <div class="blog_ri fadeInRight animated15 clearfix">
+            
+            <h4 class="blog_category_title">小餐館週報 帶你看時事<i>2022/04/21</i></h4>
+            
+            
+            <div class="blog_box_edit clearfix">
+
+              <h3 style="margin: 0px; text-align: center;">
+	<img alt="" src="https://www.doing-housework.com/store_image/richholder168/file/D1650442314906.jpg	" style="width: 100px; height: 67px;" /></h3>
+<h3 style="margin: 0px;">
+	<span style="color:#000000;"><span style="background-color:#ffffff;">1.【金管會打炒房 鎖定3樣態】</span></span></h3>
+<p style="margin: 0px;">
+	金管會列出要重點檢查的三大金融助長炒地或炒房態，包括建築購地貸款多次展期未興建、購置工業區土地貸款案多次展期未興建，銀行卻未收回部分款項或調高利率，還有以人頭戶申貸來假理財真炒房。</p>
+<p style="margin: 0px;">
+	一、建築購地貸款或周轉金授信案，有多次辦理續約展期仍未動工興建，且銀行未在展期時要求借戶收回部分貸放資金或調高利率</p>
+<p style="margin: 0px;">
+	二、購置工業區土地貸放案，歷經多次展期仍未動工興建，甚至在展期時調降貸放利率</p>
+<p style="margin: 0px;">
+	三、投資客利用投資理財課程，誘導民眾組成炒房團，向銀行融資，貸放後有由代書以現金提領貸款資金。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<h3 style="margin: 0px;">
+	<span style="color:#000000;"><span style="background-color:#ffffff;">2.【微軟收購暴雪 遊戲產業掀起整併風】</span></span></h3>
+<p style="margin: 0px;">
+	1月18日，微軟公司宣佈將作價687億美元現金收購游戲開發和互動娛樂內容發行商動視暴雪，此次收購溢價約45%。這也是微軟有史以來進行的最大一筆收購。該交易已獲得微軟和動視暴雪董事會的批准，預期於2023財年完成。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	微軟收購暴雪的動作也對游戲市場產生了影響。東方財富Choice數據顯示，截至1月19日收盤，游戲板塊整體上漲3.59%，其中迅游科技(300467，SZ)、星輝娛樂（300043，SZ）漲停。伽馬數據總經理滕華表示：微軟對暴雪的收購，除了表現在對國內二級市場中游戲板塊、元宇宙板塊等概念股的提振外，短期內或許對游戲市場沒有實質性的影響，但從長遠來看勢必會加強全球游戲行業的競爭。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<h3 style="margin: 0px;">
+	<span style="color:#000000;"><span style="background-color:#ffffff;">3.【中東緊張加劇拉高油價 布蘭特原油觸及7年高點】</span></span></h3>
+<p style="margin: 0px;">
+	隨著中東地區地緣政治陷入動盪，同時對 Omicron 疫情的擔憂也在降低，布蘭特原油價格繼續攀升，亞洲1月18 日 盤中上漲逾 1 美元，觸及 7 年高點。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	葉門的胡塞武裝分子宣稱，他們對阿拉伯聯合大公國又發動了無人機襲擊，阿布達比郊區發生爆炸和起火，造成 3 人死亡。阿聯是 OPEC 第三大產油國，局勢動盪下，市場擔憂供應可能中斷。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	ING Groep NV 大宗商品策略主管 Warren Patterson 指出，供應中斷加上需求堅挺，意味著石油市場供求關係比預期的更為緊張。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<h3 style="margin: 0px;">
+	<span style="color:#000000;"><span style="background-color:#ffffff;">4.【貨櫃三雄股價齊挫 長榮跌幅最重、陽明跌破百元】</span></span></h3>
+<p style="margin: 0px;">
+	貨櫃股近期有外資送暖，一家美系外資重申長榮加碼評等，目標價由245元調高至294元，另一家美系外資則是重申陽明買進評等，目標價上看186元，主要是看好陽明股息的配發及運價持續上漲等，預估陽明總報酬率93.6%，包括股價報酬率74.6%，股息殖利率報酬率19%。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	但無論是外資喊買、去年獲利、今年的殖利率等題材，貨櫃股仍無力擺脫頹勢，貨櫃三雄中長榮跌勢最重，早盤以122元開低，終場收在115.5元，下跌8.5元，跌幅6.85％。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	陽明更是失守百元關卡，早盤以103元開低，終場收99元，下跌5元，跌幅4.8％；萬海（2615）以159.5元開低，收在151.5元，下跌9.5元，跌幅5.9％。</p>
+<h3 style="margin: 0px;">
+	&nbsp;</h3>
+<h3 style="margin: 0px;">
+	<span style="color:#000000;"><span style="background-color:#ffffff;">5.【黃金大漲逾30美元 登上2個月高點】</span></span></h3>
+<p style="margin: 0px;">
+	市場通膨擔憂持續，1月19日金價登上2個月高點，2月交割的黃金期貨大漲30.80美元或1.77%，收每盎司1843.20美元，為去年11月19日以來最高水平。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	其他貴金屬方面，3月交割的白銀期貨上漲3.2%，收每盎司24.231美元；4月交割的鉑金上漲5%，收每盎司1028.40美元；3月交割的鈀金上漲近5.5%，收每盎司2008.40美元。</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<p style="margin: 0px;">
+	&nbsp;</p>
+<div>
+	&nbsp;【理財小餐館】將由淺入深一步一步帶你品嘗新知、探索金融市場的不同風味！</div>
+<div>
+	........................................</div>
+<div>
+	<big>追蹤我們 IG :<a href="https://www.instagram.com/" target="_blank"><span style="color:#ffffff;"><span style="background-color:#0099ff;"> 理財小餐館</span></span></a></big></div>
+<div>
+	&nbsp;</div>
+<div>
+	<big>追蹤我們FB :<a href="https://www.facebook.com/%E7%90%86%E8%B2%A1%E5%B0%8F%E9%A4%90%E9%A4%A8-101021432331041" target="_blank"><span style="color:#ffffff;"><span style="background-color:#0099ff;"> 理財小餐館</span></span></a></big></div>
+<div>
+	&nbsp;</div>
+<div>
+	<a href="https://www.facebook.com/理財小餐館-101021432331041" target="_blank"><img alt="" src=" https://www.doing-housework.com/store_image/richholder168/file/D1650423508001.jpg" style="width: 100px; height: 39px;" /></a></div>
+              <!--編輯器內容-->
+              </div>        
+              
+            </div><!--blog_subbox-->
+            
+            <div class="blog_goback">
+            <a href="javascript:void();" onClick="history.go(-1)" class="lastPage">上一頁</a>
+            </div>
+            
+            <div class="blog_back">
+            <a class="article_btn_prev" href="details.php?id=2022-04-21 11:32:59&group_id=430&page=10">上一篇</a>
+            <a class="article_btn_back" href="index.php?&group_id=430&page=10" >回列表</a>
+            <a class="article_btn_next" href="details.php?id=2022-04-21 11:19:00&group_id=430&page=10">下一篇</a>
+            </div>
+			
+          </div>
+          
+		</div><!-- show_content blog_box -->
+
+	</div><!-- main_part -->
+</div><!-- #content -->
+
+
+<a id="to_top" class="to_top" href=""><i class='top'></i>TOP</a>
+
+<style>
+
+	.footer_item{
+		display: inline-block;
+		vertical-align: middle;
+		padding: 0 40px;
+		border-left: 2px solid #FFF;
+		border-right: 2px solid #FFF;
+	}
+
+	.footer_item p{
+		padding: 0 0 0 35px;
+		position: relative;
+		line-height: 160%;
+		margin-bottom: 10px;
+		text-align: left;
+	}
+
+	.footer_item p:before{
+		content: "";
+		position: absolute;
+		width: 25px;
+		height: 25px;
+		left: 0;
+		top: 0;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+
+	.footer_link{
+		display: inline-block;
+		vertical-align: middle;
+		padding: 0 20px;
+	}
+
+	.footer_link a{
+		width: 120px;
+		display: inline-block;
+		vertical-align: middle;
+		margin: 10px;
+		background:#fff;
+	}
+
+	.footer_link a img{width: 100%;}
+
+
+	#p01:before{background-image: url(https://pic03.eapple.com.tw/richholder168/footer-phone.png);}
+	#p02:before{background-image: url(https://pic03.eapple.com.tw/richholder168/footer-email.png);}
+	#p03:before{background-image: url(https://pic03.eapple.com.tw/richholder168/footer-map.png);}
+
+	@media screen and (max-width: 1000px){
+
+		.footer_item{
+			width: 100%;
+			display: block;
+			margin: 20px auto;
+			padding: 0;
+			border-right: none;
+			border-left: none;
+		}
+
+	    .footer_link{
+	    	display: block;
+	    	padding: 0;
+	    }
+
+	    .footer_link a{
+	    	margin: 5px;
+	    }
+
+	}
+		
+
+
+</style>
+
+<!-- ******************************** -->
+<!-- 有購物車 加上下方 id#bottom_menu -->
+<ul id="bottom_menu" class="clearfix with_shopping_mode">
+	<li><a href="index.html"><i class="fa fa-home fa-2x" aria-hidden="true"></i>回首頁</a></li>
+	</ul>
+
+<style>
+.double_key { text-align:center; background: #003c7b;}
+.double_key a { font-size:15px; color: #003c7b; display:inline-block;}
+.double_key a:after { content:' , '; font-size:15px; color: #003c7b;}
+.double_key a:last-child:after { display:none;}
+</style>
+<div class="double_key">
+<a href="http://www.richholder.com.tw/">投資顧問公司</a>
+<a href="http://www.richholder.com.tw/">台中投資顧問公司</a>
+<a href="http://www.richholder.com.tw/">西屯投資顧問公司</a>
+<a href="http://www.richholder.com.tw/">台中投資顧問公司</a>
+</div><!--double_key-->
+<style type="text/css">
+.fix_ri { width:50px; box-sizing: border-box; position: fixed; bottom:55px; right:20px; z-index: 9999; text-align:center; }
+.fix_ri a { display:inline-block; margin-bottom:6px;}
+.fix_ri img { opacity:1; width:100%;}
+.fix_ri img:hover { opacity:1;}
+.fix_ri p { text-align:center; font-weight: 900;}
+
+
+@media screen and (max-width: 768px) {
+	
+	
+	
+}
+@media screen and (max-width:480px) {
+.fix_ri{bottom:68px; right: 10px;}	
+	
+	
+}
+
+</style>
+<div class="fix_ri">
+<a href="https://line.naver.jp/ti/p/~@richholder" target="_blank"><img src="https://pic03.eapple.com.tw/richholder168/line.png" /></a><!--line-->
+<a href="tel:04-22546161"><img src="https://pic03.eapple.com.tw/richholder168/call.png" /></a><!--call-->
+</div>
+
+
+
+
+<!--警示標語-->
+<div id="fixed-footer">
+    本公司無任何投資群組、帶單、虛擬貨幣、股票投資資訊，請注意詐騙陷阱！
+ </div>
+<!--警示標語-->
+<!-- ******************************** -->
+<!-- 有購物車 額外加上with_shopping_mode -->
+<footer class="footer with_shopping_mode"><!-- 有購物車 加上with_shopping_mode -->
+	<div class="center">
+		<ul class="box_link">
+								</ul>
+		<div class="footer_info">	
+					
+			<div class="footer_logo">
+				<a href="index.html"><img src="https://pic03.eapple.com.tw/richholder168/logo-foter.svg" alt="貿華投資顧問" /></a>
+			</div><!-- footer_logo -->
+						<div class="footer_item">
+				<p id="p01">電話：04-22546161</p>
+				<p id="p02">信箱：service@richholder.info</p>
+				<p id="p03">地址：臺北市中正區濟南路一段15號4樓</p>
+			</div>
+			<div class="footer_link">
+				<a href="https://www.facebook.com/%E7%9D%BF%E7%A6%BE%E6%8A%95%E8%B3%87%E9%A1%A7%E5%95%8F-101021432331041" target="_blank"><img src="https://pic03.eapple.com.tw/richholder168/fb-web2021.svg"></a>
+				<a href="https://www.instagram.com/finance.restaurant_/" target="_blank"><img src="https://pic03.eapple.com.tw/richholder168/ig-web.svg"></a>
+			</div>
+			<ul>
+            <li>
+            	<div class="footer_menu">
+                <a href="http://www.richholder.com.tw/index.php">回首頁</a>
+				                <a href="index.html">首頁</a>
+				                <a href="http://www.richholder.com.tw/paper/other_page.php?id=3441">關於貿華</a>
+				                <a href="http://www.richholder.com.tw/paper/services_index.php?title_id=3442">服務項目</a>
+				                <a href="http://www.richholder.com.tw/paper/other_page.php?id=3788">核心技術</a>
+				                <a href="http://www.richholder.com.tw/news/index.php?title_id=3445">投資專欄</a>
+				                <a href="http://www.richholder.com.tw/paper/contact_index.php?title_id=3444">預約諮詢</a>
+				                </div>
+            </li>
+            </ul>
+		</div><!-- footer_info -->
+        
+        
+	</div><!-- center -->
+	<p class="copy">Designed by <a href="http://www.ykqk.com.tw" target="_blank">揚京快客</a> Copyright © 2024 <a href="https://www.doing-housework.com/web_login/login.php" target="_blank">..</a> <!-- <span class="total_view">累積人氣: 342357</span> --></p>
+	<p class="keywords">	
+	投資顧問公司,台中投資顧問公司,西屯投資顧問公司,台中投資顧問公司推薦,投顧公司,台中投顧公司<span id="show_itemb1" style="display:none">,西屯投顧公司,台中投顧公司推薦,投資顧問,台中投資顧問,西屯投資顧問,投資顧問推薦,台中投資顧問推薦,西屯投資顧問推薦,理財顧問,台中理財顧問,西屯理財顧問,台中理財顧問推薦,私人理財顧問,台中私人理財顧問,西屯私人理財顧問,家族財富規劃,台中家族財富規劃,西屯家族財富規劃,家族財富傳承,台中家族財富傳承,西屯家族財富傳承,稅務規劃,台中稅務規劃,西屯稅務規劃,稅務諮詢,台中稅務諮詢,西屯稅務諮詢,理財講座,台中理財講座,西屯理財講座,台中理財講座推薦,投資講座,台中投資講座,西屯投資講座,台中投資講座推薦,企業理財規劃,台中企業理財規劃,西屯企業理財規劃,企業財務管理,台中企業財務管理,西屯企業財務管理,保險代理人,台中保險代理人,西屯保險代理人,保險代理人推薦,台中保險代理人推薦,西屯保險代理人推薦,保險經紀人,台中保險經紀人,西屯保險經紀人,保險經紀人推薦,台中保險經紀人推薦,西屯保險經紀人推薦</span>&nbsp;&nbsp;<span id="NoButtonb1"><input type="button" value="更多" style="width:50px;height:20px;" onclick="MoreItem('yes','b1')"/></span><span id="YesButtonb1" style="display:none"><input type="button" value="隱藏" style="width:50px;height:20px;" onclick="MoreItem('no','b1')"/></span></p>
+</footer>
+			
+</div><!-- #page -->
+<script src='../js/main.js'></script>
+<script src='../js/menu_v2_2020.js'></script>
+<script>
+//左邊分類下拉語法
+$(function() {
+	var Accordion = function(el, multiple) {
+		this.el = el || {};
+		this.multiple = multiple || false;
+
+		// Variables privadas
+		var links = this.el.find('.link');
+		// Evento
+		links.on('click', {el: this.el, multiple: this.multiple}, this.dropdown)
+	}
+
+	Accordion.prototype.dropdown = function(e) {
+		var $el = e.data.el;
+			$this = $(this),
+			$next = $this.next();
+
+		$next.slideToggle();
+		$this.parent().toggleClass('open');
+
+		if (!e.data.multiple) {
+			$el.find('.submenu').not($next).slideUp().parent().removeClass('open');
+		};
+	}	
+
+	var accordion = new Accordion($('#accordion'), false);
+});
+</script>
+	</body>
+</html>
