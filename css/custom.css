@@ -25,7 +25,7 @@
 
 /*電腦LOGO*/
 .nav-brand{
-	background-image: url(https://pic03.eapple.com.tw/richholder168/logo.svg);
+	/*background-image: url(https://pic03.eapple.com.tw/richholder168/logo.svg);*/
     background-repeat: no-repeat;
     margin: 11px auto;
     background-size: 100%;
