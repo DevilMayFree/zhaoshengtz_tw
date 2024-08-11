@@ -312,6 +312,7 @@
 .footer .center {
 	max-width: 100%;
 	margin: 1px auto;
+    padding-bottom: 3rem;
 }
 /*選單*/
 .footer_menu {
@@ -399,7 +400,7 @@
 
 /*警示標語*/
 #fixed-footer {
-    display: none;!important;
+    /*display: none;!important;*/
 
     background: #000000;
     color: #FFFFFF;
